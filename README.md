@@ -5,7 +5,8 @@
 #### Project Execution : 2021.07 ~ 2021.08
 #### Project Manager : Ji won Lee
 #### Project Engineer : Min Wook Kim, Joo Hwan Kim, Jae bum Lee, Chan woo Jung
-<br/>
+<br/>  
+
 # Description
 비장애인들이 하루에도 몇 번씩 타고 내리는 버스가 누군가에게는 엄청 높은 장벽을 넘는 것과 같을 수도 있다. 앞이 보이지 않는 시각장애인들의 경우 목적지에 가기 위해 대중교통을 이용할 때 버스보다 지하철이나 택시를 선호한다. 지하철이나 택시에서 겪는 어려움보다 버스를 타는 데에 있어서 겪는 어려움이 더 크기 때문이다.  
 
@@ -27,5 +28,6 @@
 ||
 |:---:|
 | <img src="https://user-images.githubusercontent.com/68945145/156540526-7f4c0d71-46f5-4b3b-ac9c-381e2bd68787.PNG" width="950"/> |  
+
 <br/><br/>
 
