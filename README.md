@@ -18,16 +18,16 @@ LED 전광판을 통해 버스 기사님에게도 시각장애인의 탑승 여�
 
 ||
 |:---:|
-|  <img src="https://user-images.githubusercontent.com/80519614/219797196-9968f5cd-0604-4f97-9081-f556ace1346a.JPG" width="900" height="580"/>  |
+|  <img src="https://user-images.githubusercontent.com/80519614/219797196-9968f5cd-0604-4f97-9081-f556ace1346a.JPG" width="950" height="580"/>  |
 
 ## Flow Chart
 ||
 |:---:|
-| ![lofw](https://user-images.githubusercontent.com/68945145/156540483-ab3e2c85-3a79-4e7a-869d-093b540e280a.PNG)|
+| <img src="https://user-images.githubusercontent.com/68945145/156540483-ab3e2c85-3a79-4e7a-869d-093b540e280a.PNG" width="950"/> |
 
 ## Prototype
 ||
 |:---:|
-|  ![11](https://user-images.githubusercontent.com/68945145/156540526-7f4c0d71-46f5-4b3b-ac9c-381e2bd68787.PNG)  |
+| <img src="https://user-images.githubusercontent.com/68945145/156540526-7f4c0d71-46f5-4b3b-ac9c-381e2bd68787.PNG" width="950"/> |
 
 
