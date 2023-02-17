@@ -1,6 +1,6 @@
 ## bus-stop-system-user-visually-impaired-person
 
-# 시각장애인을 위한 버스 탑승 안내 시스템
+# :bus:시각장애인을 위한 버스 탑승 안내 시스템
 
 #### Project Execution : 2021.07 ~ 2021.08
 #### Project Manager : Ji won Lee
