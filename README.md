@@ -1,4 +1,4 @@
-# bus-stop-system-user-visually-impaired-person
+## bus-stop-system-user-visually-impaired-person
 
 # 시각장애인을 위한 버스 탑승 안내 시스템
 
@@ -11,21 +11,21 @@
 
 버스가 정류장에 들어오면 번호판을 인식하여 시각장애인에게 해당 버스의 번호를 알려주고 LED 전광판을 통해 버스 기사님에게도 시각장애인 
 의 탑승 여부를 알려줌으로써 쌍방향 통신이 가능하도록 하는 것을 목표로 하였다.
-<br><br>
+<br/><br/>
 ||
 |:---:|
 |  <img src="https://user-images.githubusercontent.com/80519614/219797196-9968f5cd-0604-4f97-9081-f556ace1346a.JPG" width="950" height="580"/>  |  
+<br/><br/>
 
-
-## Flow Chart
+# Flow Chart
 ||
 |:---:|
 | <img src="https://user-images.githubusercontent.com/68945145/156540483-ab3e2c85-3a79-4e7a-869d-093b540e280a.PNG" width="950"/> |  
+<br/><br/>
 
-
-## Prototype
+# Prototype
 ||
 |:---:|
 | <img src="https://user-images.githubusercontent.com/68945145/156540526-7f4c0d71-46f5-4b3b-ac9c-381e2bd68787.PNG" width="950"/> |  
-
+<br/><br/>
 
