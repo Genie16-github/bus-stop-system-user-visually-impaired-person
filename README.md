@@ -3,8 +3,8 @@
 # :bus:시각장애인을 위한 버스 탑승 안내 시스템
 
 #### Project Execution : 2021.07 ~ 2021.08
-#### Project Manager : Ji won Lee
-#### Project Engineer : Min Wook Kim, Joo Hwan Kim, Jae bum Lee, Chan woo Jung
+#### Project Manager : 이지원
+#### Project Engineer : 이재범, 김주환, 정찬우, 김민욱
 <br/>  
 
 ## Description
